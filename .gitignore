@@ -1,0 +1,13 @@
+# Ignore object files
+*.o
+
+# Ignore all directories created by the Makefile
+/bin/
+/obj/
+/lib/
+
+# Ignore the executable
+/testfs
+
+# Ignore static libraries
+*.a
